@@ -1,11 +1,26 @@
 body {
-  background: #fff;
   font-family: "Roboto", sans-serif;
+  background-color: #fff;
   color: #434455;
+}
+a,
+ul,
+ol {
+  text-decoration: none;
+}
+h1 {
+  color: #fff;
+}
+h2 {
+  color: #2e2f42;
+}
+h3 {
+  color: #2e2f42;
 }
 
 /*header*/
 .page-header {
+  font-family: "Raleway", sans-serif;
   background: #fff;
 }
 .link-nav {
@@ -48,26 +63,7 @@ body {
 .list-contacts {
   list-style-type: none;
 }
-h1 {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
-}
-h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-h3 {
-  font-size: 20px;
-  color: #2e2f42;
-}
+
 p {
   font-weight: 400;
   font-size: 16px;
