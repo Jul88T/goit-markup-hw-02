@@ -136,6 +136,10 @@ a {
   color: #434455;
 }
 
+.portfolio {
+  background-color: #fff;
+}
+
 .portfolio-title {
   font-size: 36px;
   line-height: 1.1;
