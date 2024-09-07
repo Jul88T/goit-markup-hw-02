@@ -57,9 +57,8 @@ a {
 }
 
 .section-hero {
-  background-color: #2e2f42;
+  background: #2e2f42;
 }
-
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
@@ -79,7 +78,7 @@ a {
   background-color: #404bbf;
 }
 
-.button-name {
+.button-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
